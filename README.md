@@ -5,4 +5,4 @@ Quarto dos 5 projetos finais para o bootcamp [Data Visualization](https://www.fr
 [Enunciado dos Requisitos do Projeto](https://www.freecodecamp.org/portuguese/learn/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map)
 
 
-![image](https://github.com/dev-araujo/heat-map-d3js/assets/97068163/f3a6cab2-8fdf-4f90-a6cd-366666a1941c)
+![image](https://github.com/dev-araujo/choropleth-map-d3js/assets/97068163/74d350cf-608f-48a4-95cc-4368a04d2739)
